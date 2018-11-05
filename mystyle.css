@@ -1,0 +1,90 @@
+
+#main
+{
+
+background-color:black;
+color:white;
+
+
+}
+body{
+    background-color: black;
+}
+
+
+
+#about h1
+{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+
+
+#about
+{
+
+text-align: center;
+
+
+}
+#about img{
+    height: 600px;
+width: 950px;
+}
+#about h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+}
+
+#FORM
+{
+color: white;   
+text-align: center;
+height: 200px;
+margin: 15px;
+align-items: center;
+background-color: black;
+
+
+}
+
+.pair
+{
+
+color:white;
+text-align: center;
+
+}
+.col-sm img
+{
+    height: 00px;
+    width:500px;
+}
+.pair img{
+    height: 50px;
+    width:100%;
+}
+.card-body
+{
+    color:orange;
+    font-family:Shadows Into Light Two, cursive;
+}
+.card-body img
+{
+    margin-right: 500px;
+    height: 600px;
+    width:470px;
+}
+
+.card
+{
+    background-color: black;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+}
+
+
+
